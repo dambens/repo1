@@ -1,1 +1,1 @@
-plik w branchu testing
+dodalem linijke w tym pliku tekstowym
